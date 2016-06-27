@@ -1,3 +1,9 @@
+# Customize gitignore
+Corel5k/*
+VGG*
+vgg*
+kaffe/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
